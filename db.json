@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizado",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Wilfer",
+      "empresa": "UNEFA",
+      "email": "wilfercruz.23@gmail.com",
+      "telefono": "04244437948",
+      "notas": "Excelente Alumno",
+      "id": 6
+    },
+    {
+      "nombre": "Wilexis",
+      "empresa": "Inversiones MX",
+      "email": "wile22@gmail.com",
+      "telefono": "0412404053",
+      "notas": "Mi Constelación",
+      "id": 7
+    }
+  ]
+}
